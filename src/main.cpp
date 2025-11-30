@@ -6,4 +6,5 @@ int main(){
     std::cout<<"New Things";
     std::cout<<"new things";
     std::cout<<"new thingsss";
+    std::cout<<"register";
 }
